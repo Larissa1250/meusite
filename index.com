@@ -2,6 +2,7 @@
 <html>
 <head>
  <h1 style="color:cyan;" align="center"> Larissa Emy</h1>
+ <img src="natureza.JPEG" height="50%" width="100%"></>
     <title> Nosso meio ambiente </title>
     <meta charset="utf-8"/>
 </head>
